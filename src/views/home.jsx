@@ -1,8 +1,8 @@
 const Home = () => {
   return (
     <div className="main-wrapper flex w-full items-center justify-center mt-12">
-      <div className="flex w-11/12 flex-row items-center justify-center">
-        <div className="w-6/12">
+      <div className="flex w-11/12 lg:flex-row flex-col items-center justify-center">
+        <div className="lg:w-6/12 w-full md:mb-0 mb-3">
           <h2 className="text-4xl font-semibold text-blue-600">
             About ICICC-2024
           </h2>
@@ -10,7 +10,7 @@ const Home = () => {
             We are extremely pleased to welcome you to ICICC-2024
           </p>
         </div>
-        <div className="w-6/12">
+        <div className="lg:w-6/12 w-full">
           <p className="text-[16px] text-justify">
             The objective of this Scopus indexed 7th International Conference on
             Intelligent Computing and Communication (ICICC – 2024) is to present
