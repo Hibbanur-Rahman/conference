@@ -1,0 +1,11 @@
+.nav-item{
+    &:hover{
+        .sub-item{
+            display: flex;
+        }
+    }
+    .sub-item{
+        display: none;
+    }
+   
+}
