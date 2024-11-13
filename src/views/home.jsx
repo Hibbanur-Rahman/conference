@@ -18,16 +18,16 @@ const Home = () => {
       <div className="w-11/12 lg:w-10/12 flex flex-col lg:flex-row items-center justify-between mb-10">
         <div className="lg:w-6/12 w-full mb-6 lg:mb-0">
           <h2 className="text-4xl font-bold text-blue-800 mb-4">
-            About ICICC-2024
+            About ICCMDN-2024
           </h2>
           <p className="text-xl font-medium text-gray-700">
-            We are extremely pleased to welcome you to ICICC-2024.
+            We are extremely pleased to welcome you to ICCMDN-2024.
           </p>
         </div>
         <div className="lg:w-6/12 w-full">
           <p className="text-lg text-justify text-gray-600 leading-relaxed">
             The objective of this Scopus indexed 7th International Conference on
-            Intelligent Computing and Communication (ICICC – 2024) is to present
+            Intelligent Computing and Communication (ICCMDN – 2024) is to present
             a unified platform for advanced and multi-disciplinary research
             towards the design of smart computing, information systems, and
             electronic systems. The theme focuses on various innovation
